@@ -28,4 +28,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
+## Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
