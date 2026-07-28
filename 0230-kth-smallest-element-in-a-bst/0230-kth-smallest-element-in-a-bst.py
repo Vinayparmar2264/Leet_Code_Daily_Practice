@@ -6,13 +6,19 @@
 #         self.right = right
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
+        self.count = 0
+        self.ans = None
         def inorder(node):
-            if not node:
+            if not node or self.ans is not None:
                 return
+
             inorder(node.left)
-            result.append(node.val)
+            self.count += 1
+            if self.count == k:
+                self.ans = node.val
+                return 
             inorder(node.right)
 
-        result = []
+
         inorder(root)
-        return result[k-1]
+        return self.ans
