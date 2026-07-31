@@ -89,4 +89,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0056-merge-intervals) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
