@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 ## Iterator
 |  |
@@ -118,4 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
