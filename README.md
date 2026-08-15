@@ -44,11 +44,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0901-online-stock-span](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0901-online-stock-span) |
 ## Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0901-online-stock-span](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0901-online-stock-span) |
 ## Iterator
 |  |
 | ------- |
@@ -152,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
