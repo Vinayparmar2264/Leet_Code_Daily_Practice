@@ -26,12 +26,12 @@ class Solution:
             return left_smaller,right_smaller
         
         left_smaller, right_smaller = left_right_smaller(heights)
-        print(left_smaller,"\n",  right_smaller)
+    
 
         max_area = 0
         for i in range(len(heights)):
             width = abs(right_smaller[i] - left_smaller[i] -1 )
-            print(width)
+        
             area = width * heights[i]
             max_area = max(area,max_area)
 
