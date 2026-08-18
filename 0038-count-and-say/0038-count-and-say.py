@@ -12,7 +12,7 @@ class Solution:
             while i< len(say)-1 and say[i] == say[i+1]:
                 count += 1
                 i+=1
-            result += str(count) + str(ch)
+            result += str(count) + ch
             i += 1
             
         return result
