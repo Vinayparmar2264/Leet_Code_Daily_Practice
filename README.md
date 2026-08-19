@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## String
 |  |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
