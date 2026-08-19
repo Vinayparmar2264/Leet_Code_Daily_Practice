@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
