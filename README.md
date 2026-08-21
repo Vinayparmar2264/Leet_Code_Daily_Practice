@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
+| [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -269,10 +272,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 ## Backtracking
 |  |
