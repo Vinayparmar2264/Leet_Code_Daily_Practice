@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Stack
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 ## Math
 |  |
@@ -283,4 +286,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
