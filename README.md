@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0152-maximum-product-subarray) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
@@ -326,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
