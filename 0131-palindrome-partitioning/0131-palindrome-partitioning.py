@@ -1,26 +1,25 @@
 class Solution:
-    def isPalindrome(self,s,l,r):
-        while l<r:
-            if s[l]!=s[r]:
+    def isPal(self,s,l,r):
+        while l<r :
+            if s[l] == s[r]:
+                l += 1
+                r -= 1
+            else:
                 return False
-            l += 1
-            r -= 1
         return True
 
-    def solve(self,idx,s,n,path,result):
-        if idx >= n:
-            result.append(path[:])
+    def solve(self,i,s,pal,ans):
+        if i>=len(s):
+            ans.append(pal[:])
             return
-        for i in range(idx,n):
-            if self.isPalindrome(s,idx,i):
-                path.append(s[idx:i+1])
-                self.solve(i+1,s,n,path,result)
-                path.pop()
+        
+        for  j in range(i,len(s)):
+            if self.isPal(s,i,j):
+                pal.append(s[i:j+1])
+                self.solve(j+1,s,pal,ans)
+                pal.pop()
 
     def partition(self, s: str) -> List[List[str]]:
-        n = len(s)
-        result = []
-        self.solve(0,s,n,[],result)
-        return result
-
-        
+        ans = []
+        self.solve(0,s,[],ans)
+        return ans
