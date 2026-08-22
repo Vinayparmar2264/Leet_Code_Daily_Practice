@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0064-minimum-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## String
