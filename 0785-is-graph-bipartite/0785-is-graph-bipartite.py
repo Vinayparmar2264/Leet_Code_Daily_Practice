@@ -1,22 +1,17 @@
 class Solution:
-    def dfs(self,node,color,graph,visit):
+    def bfs(self,i,color,graph,visit):
+        que = deque()
+        que.append(i)
+        visit[i] = color
 
-        visit[node] = color
-
-        for adjNode in graph[node]:
-
-            if visit[adjNode] != color and visit[adjNode] == -1:
-
-                ans = self.dfs(adjNode,1-color,graph,visit)
-
-                if ans == False:
-
+        while que:
+            node = que.popleft()
+            for adjNode in graph[node]:
+                if visit[adjNode] == -1:
+                    que.append(adjNode)
+                    visit[adjNode] = 1-visit[node]
+                elif visit[adjNode] == visit[node]:
                     return False
-                    
-            elif visit[adjNode] == color:
-
-                return False
-                
         return True
 
     def isBipartite(self, graph: List[List[int]]) -> bool:
@@ -27,7 +22,7 @@ class Solution:
 
             if visit[i]==-1:
 
-                ans = self.dfs(i,0,graph,visit)
+                ans = self.bfs(i,0,graph,visit)
 
                 if ans == False:
                     
