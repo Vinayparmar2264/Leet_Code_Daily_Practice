@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Binary Search Tree
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## Design
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 ## String
 |  |
@@ -242,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Shortest Path
@@ -310,4 +314,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0207-course-schedule) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
