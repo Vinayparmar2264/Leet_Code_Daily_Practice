@@ -1,26 +1,26 @@
 class Solution:
-    def solve(self, i, nums, subset, lst):
 
-        if i >= len(nums):
-            lst.append(tuple(subset))
-            return
+    def solve(self, i, nums, subset, ans):
 
-        subset.append(nums[i])
+        ans.append(subset[:])
 
-        self.solve(i + 1, nums, subset, lst)
+        for j in range(i, len(nums)):
 
-        subset.pop()
+            if j > i and nums[j] == nums[j - 1]:
+                continue
 
-        self.solve(i + 1, nums, subset, lst)
+            subset.append(nums[j])
+
+            self.solve(j + 1, nums, subset, ans)
+
+            subset.pop()
 
     def subsetsWithDup(self, nums: List[int]) -> List[List[int]]:
 
         nums.sort()
 
-        lst = []
+        ans = []
 
-        self.solve(0, nums, [], lst)
+        self.solve(0, nums, [], ans)
 
-        lst = set(lst)
-
-        return [list(x) for x in lst]
+        return ans
