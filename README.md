@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0118-pascals-triangle) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
