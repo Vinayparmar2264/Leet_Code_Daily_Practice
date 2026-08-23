@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
@@ -381,4 +384,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
+| [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 <!---LeetCode Topics End-->
