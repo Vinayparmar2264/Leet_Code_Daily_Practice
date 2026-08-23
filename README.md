@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
+| [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Dynamic Programming
@@ -375,4 +377,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
