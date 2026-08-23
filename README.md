@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+| [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0518-coin-change-ii) |
+| [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
+| [0931-minimum-falling-path-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Sorting
 |  |
