@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0018-4sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0039-combination-sum) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
