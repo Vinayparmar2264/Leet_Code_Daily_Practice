@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0165-compare-version-numbers) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0131-palindrome-partitioning) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -348,10 +353,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
+| [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 ## Brute-Force Search
 |  |
 | ------- |
