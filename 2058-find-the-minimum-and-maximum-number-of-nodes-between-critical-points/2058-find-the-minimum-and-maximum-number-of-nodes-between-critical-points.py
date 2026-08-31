@@ -3,29 +3,46 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
+
 class Solution:
     def nodesBetweenCriticalPoints(self, head: Optional[ListNode]) -> List[int]:
-        count = 0
-        curr = head
-        critical = []
-        prev = None
 
-        while curr and curr.next:
-            if prev and  prev.val<curr.val>curr.next.val:
-                critical.append(count)
-            if prev and  prev.val>curr.val<curr.next.val:
-                critical.append(count)
+        prev = head
+        curr = head.next
+        index = 1
+
+        first_cp = -1
+        prev_cp = -1
+
+        min_distance = float("inf")
+        max_distance = -1
+
+        while curr.next:
+
+            # Check if current node is a critical point
+            if (prev.val < curr.val > curr.next.val) or \
+               (prev.val > curr.val < curr.next.val):
+
+                # First critical point
+                if first_cp == -1:
+                    first_cp = index
+                    prev_cp = index
+
+                else:
+                    # Update minimum distance
+                    min_distance = min(min_distance, index - prev_cp)
+
+                    # Update maximum distance
+                    max_distance = index - first_cp
+
+                    # Update previous critical point
+                    prev_cp = index
 
             prev = curr
             curr = curr.next
-            count += 1
+            index += 1
 
-        result = [-1,-1]
-        if len(critical)>1:
-            min_dis = result[1] = critical[-1] - critical[0]  
+        if max_distance == -1:
+            return [-1, -1]
 
-            for i in range(len(critical)-1):
-                if critical[i+1] - critical[i] < min_dis:
-                    min_dis = critical[i+1] - critical[i]
-            result[0] =  min_dis
-        return result
+        return [min_distance, max_distance]
