@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0991-broken-calculator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0991-broken-calculator) |
+| [3270-find-the-key-of-the-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3270-find-the-key-of-the-numbers) |
 ## Recursion
 |  |
 | ------- |
