@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0991-broken-calculator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0991-broken-calculator) |
 | [3270-find-the-key-of-the-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3270-find-the-key-of-the-numbers) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
