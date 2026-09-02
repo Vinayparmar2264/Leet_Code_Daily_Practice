@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1834-single-threaded-cpu](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1834-single-threaded-cpu) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1834-single-threaded-cpu](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1834-single-threaded-cpu) |
 ## Math
 |  |
 | ------- |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
+| [1834-single-threaded-cpu](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1834-single-threaded-cpu) |
 ## Monotonic Queue
 |  |
 | ------- |
