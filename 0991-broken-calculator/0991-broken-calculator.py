@@ -1,12 +1,16 @@
 class Solution:
     def brokenCalc(self, startValue: int, target: int) -> int:
-        steps = 0
+        start = startValue
 
-        while target > startValue:
-            if target % 2 == 0:
+        step = 0
+        while start < target:
+
+            if target > start and target%2 == 0 :
                 target //= 2
+            
+
             else:
                 target += 1
-            steps += 1
 
-        return steps + (startValue - target)
+            step += 1
+        return step + (start-target)
