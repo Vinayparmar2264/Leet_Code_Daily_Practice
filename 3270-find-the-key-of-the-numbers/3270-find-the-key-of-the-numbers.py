@@ -2,7 +2,7 @@ class Solution:
     def generateKey(self, num1: int, num2: int, num3: int) -> int:
         key = 0
         count = 0
-        while num1 or num2 or num3:
+        while num1 and num2 and num3:
             rem1  = num1%10
             rem2 = num2 % 10
             rem3 = num3 % 10
