@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0237-delete-node-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Doubly-Linked List
