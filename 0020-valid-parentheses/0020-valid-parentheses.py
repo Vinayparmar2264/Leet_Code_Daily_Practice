@@ -2,6 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         open = "([{"
         close = ")]}"
+        close = {")":"(", "]":"[","}":"{"}
 
         stack = []
 
@@ -11,12 +12,9 @@ class Solution:
                 stack.append(s[i])
                  
             elif stack and s[i] in close:
-                if s[i] == ")" and stack[-1] == "(":
+                if stack[-1] == close[s[i]]:
                     stack.pop()
-                elif s[i] == "]" and stack[-1] == "[" :
-                    stack.pop()
-                elif s[i] == "}" and stack[-1] == "{" :
-                    stack.pop()
+                    
                 else:
                     return False
 
