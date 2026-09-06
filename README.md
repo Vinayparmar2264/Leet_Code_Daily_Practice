@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0322-coin-change) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0380-insert-delete-getrandom-o1) |
 | [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0042-trapping-rain-water) |
 | [0165-compare-version-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0165-compare-version-numbers) |
 | [0189-rotate-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0090-subsets-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 ## Trie
 |  |
 | ------- |
@@ -417,4 +421,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
