@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0380-insert-delete-getrandom-o1) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -249,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0140-word-break-ii) |
 | [0165-compare-version-numbers](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0165-compare-version-numbers) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Vinayparmar2264/Leet_Code_Daily_Practice/tree/master/1004-max-consecutive-ones-iii) |
 ## Linked List
 |  |
